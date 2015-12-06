@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Google-Maps-iOS-Utils-QuadTree"
-  s.version      = "v1.0.1"
+  s.version      = "1.0.1"
   s.summary      = "A QuadTree library for use with Google Maps iOS SDK."
   s.description  = <<-DESC
                    This library enables you to store geographic points in a QuadTree.
